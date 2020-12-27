@@ -1,0 +1,1824 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ GfXVyAbTNGpECXZ0J0f0jZWJaa1spYKLvEOaIgta5vFdNUmBkrSXHMgyulS0dSXz
+ ERYxmmDBkoinEn2iDRJfHw==
+
+<SEC-DOCUMENT>0000950135-99-001677.txt : 19990331
+<SEC-HEADER>0000950135-99-001677.hdr.sgml : 19990331
+ACCESSION NUMBER:		0000950135-99-001677
+CONFORMED SUBMISSION TYPE:	PRE 14A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19990518
+FILED AS OF DATE:		19990330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UST CORP /MA/
+		CENTRAL INDEX KEY:			0000316901
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				042436093
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		PRE 14A
+		SEC ACT:		
+		SEC FILE NUMBER:	000-09623
+		FILM NUMBER:		99579191
+
+	BUSINESS ADDRESS:	
+		STREET 1:		40 COURT ST
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02108
+		BUSINESS PHONE:		6177267000
+
+	MAIL ADDRESS:	
+		STREET 1:		40 COURT ST
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02108
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>PRE 14A
+<SEQUENCE>1
+<DESCRIPTION>UST CORP. PRELIMINARY PROXY MATERIALS
+<TEXT>
+
+<PAGE>   1
+
+
+                                  SCHEDULE 14A
+                                 (RULE 14A-101)
+ 
+                    INFORMATION REQUIRED IN PROXY STATEMENT
+ 
+                            SCHEDULE 14A INFORMATION
+          PROXY STATEMENT PURSUANT TO SECTION 14(A) OF THE SECURITIES
+                    EXCHANGE ACT OF 1934 (AMENDMENT NO.   )
+ 
+Filed by the Registrant [X]
+ 
+Filed by a Party other than the Registrant [ ]
+ 
+Check the appropriate box:
+ 
+<TABLE>
+<S>                                             <C>
+[X]  Preliminary Proxy Statement                [ ]  Confidential, for Use of the Commission
+                                                     Only (as permitted by Rule 14a-6(e)(2))
+[ ]  Definitive Proxy Statement
+[ ]  Definitive Additional Materials
+[ ]  Soliciting Material Pursuant to Rule 14a-11(c) or Rule 14a-12
+</TABLE>
+
+                                    UST CORP
+- --------------------------------------------------------------------------------
+                (Name of Registrant as Specified In Its Charter)
+
+
+- --------------------------------------------------------------------------------
+    (Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+ 
+Payment of Filing Fee (Check the appropriate box):
+ 
+[ ]  No fee required.
+ 
+[ ]  Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.
+ 
+     (1)  Title of each class of securities to which transaction applies:
+ 
+     (2)  Aggregate number of securities to which transaction applies:
+ 
+     (3)  Per unit price or other underlying value of transaction computed
+          pursuant to Exchange Act Rule 0-11 (set forth the amount on which the
+          filing fee is calculated and state how it was determined):
+ 
+     (4)  Proposed maximum aggregate value of transaction:
+ 
+     (5)  Total fee paid:
+ 
+[ ]  Fee paid previously with preliminary materials:
+ 
+[ ]  Check box if any part of the fee is offset as provided by Exchange Act Rule
+     0-11(a)(2) and identify the filing for which the offsetting fee was paid
+     previously. Identify the previous filing by registration statement number,
+     or the Form or Schedule and the date of its filing.
+ 
+     (1)  Amount Previously Paid:
+ 
+     (2)  Form, Schedule or Registration Statement No.:
+ 
+     (3)  Filing Party:
+ 
+     (4)  Date Filed:
+<PAGE>   2
+ 
+[UST CORP. LOGO]
+ 
+                                   UST CORP.
+                                40 COURT STREET
+                             BOSTON, MASSACHUSETTS
+                            ------------------------
+ 
+                    NOTICE OF ANNUAL MEETING OF STOCKHOLDERS
+                                  MAY 18, 1999
+ 
+     Notice is hereby given that the Annual Meeting of Stockholders of UST Corp.
+(the "Company") will be held in the Auditorium located on the twelfth floor at
+40 Court Street, Boston, Massachusetts, on Tuesday, the 18th day of May, 1999 at
+9:00 o'clock in the morning for the following purposes:
+ 
+          1. To elect seven (7) Directors of the Company, each of whom will
+     serve for a three-year term, leaving one vacancy in the class of Directors
+     being elected in 1999, which may be filled later by the Board of Directors;
+ 
+          2. To approve, upon the recommendation of the Board of Directors, an
+     Amendment to the Company's By-Laws which would change the date of the
+     Annual Meeting of Stockholders to the third Tuesday in April; and
+ 
+          3. To transact any other business which may properly come before the
+     meeting, or any adjournments thereof.
+ 
+     The close of business on March 26, 1999 has been fixed as the record date
+for determination of stockholders entitled to notice of, and to vote at, the
+Annual Meeting of Stockholders and any adjournments thereof. The books for the
+transfer of stock will not be closed. This Notice and Proxy Statement will first
+be mailed to stockholders on or about April 14, 1999.
+ 
+     If you do not expect to be present personally at the Annual Meeting of
+Stockholders, please sign, date and return the enclosed Proxy in the enclosed
+addressed envelope.
+ 
+                                            By order of the Board of Directors,
+                                            /s/ Eric R. Fischer
+                                            Eric R. Fischer, Clerk
+ 
+April 14, 1999
+<PAGE>   3
+ 
+[UST Corp. Logo]
+ 
+                                   UST CORP.
+                                40 COURT STREET
+                             BOSTON, MASSACHUSETTS
+ 
+                                PROXY STATEMENT
+ 
+                         ANNUAL MEETING OF STOCKHOLDERS
+                                  MAY 18, 1999
+ 
+                                                                  April 14, 1999
+ 
+     This Proxy Statement is furnished in connection with the solicitation of
+Proxies to be used at the Annual Meeting of Stockholders of UST Corp. (the
+"Company") to be held on May 18, 1999, and at any adjournments thereof, for the
+purposes set forth in the foregoing Notice of Annual Meeting.
+ 
+     The close of business on March 26, 1999 has been fixed as the record date
+for the determination of stockholders entitled to notice of, and to vote at, the
+Annual Meeting, and at any adjournments thereof.
+ 
+     The financial statements for the Company for the fiscal year ended December
+31, 1998, together with corresponding financial information for the previous
+fiscal year, are contained in the Annual Report to UST Corp. Stockholders for
+the year ended December 31, 1998 (the "Annual Report"), which includes the
+Company's Annual Report to the Securities and Exchange Commission ("SEC") on
+Form 10-K for the year ended December 31, 1998 (the "10-K Report"). A copy of
+each of the Company's Annual Report and 10-K Report has been previously mailed
+or will be mailed simultaneously herewith to all stockholders.
+ 
+     Proxies in the form enclosed are solicited by the Board of Directors of the
+Company. Any stockholder giving a Proxy in the enclosed form has the power to
+revoke it at any time before it is exercised. A stockholder's right to revoke
+his or her Proxy is not limited by, or subject to, compliance with any specified
+formal procedure. Each stockholder may revoke his or her Proxy by attending the
+meeting and voting in person. Proxies in such form, if received in time for
+voting and not revoked, will be voted at the Annual Meeting in accordance with
+the directions of the stockholders. Where a choice is not so specified, the
+shares represented by a properly executed Proxy will be voted "for" the election
+of the seven (7) nominees for Director positions listed therein and "for" the
+approval of the Amendment to the Company's By-Laws. The enclosed Proxy confers
+discretionary authority on Neal F. Finnegan, Eric R. Fischer and James K. Hunt
+(or their substitutes), acting singly, to act on any other business which may
+properly come before the meeting. The Board of Directors does not know of any
+matters which will be brought before the meeting other than those specifically
+set forth in the Notice of Annual Meeting. Should another matter, however,
+properly come before the meeting, it is intended that the persons named in the
+enclosed form of Proxy, or their substitutes acting thereunder, will vote on
+such matter or matters in accordance with their best judgment.
+ 
+     The Company will bear all expenses in connection with the solicitation of
+Proxies, including the preparation, assembly and mailing of the Proxy Statement.
+Solicitation will be initially by mail, but employees and Directors of the
+Company, as well as representatives of Morrow & Co., professional proxy
+solicitors, may solicit Proxies by personal interview, by telephone, by
+facsimile or by telecopy. Employees and Directors of the Company will not
+receive additional compensation for such efforts, and Morrow & Co. is expected
+to receive approximately $5,500, plus out-of-pocket expenses, for such
+solicitation. The Company will also provide persons, firms, banks and
+corporations holding shares in their names, or in the names of their nominees,
+which in either case are beneficially owned by others, with proxy material for
+transmittal to such beneficial owners and reimburse such record holders for
+their reasonable expenses in so doing. Confidential voting procedures will not
+be used in connection with the Annual Meeting, except that votes cast by
+employees of the Company and/or its subsidiaries shall be held confidential.
+<PAGE>   4
+ 
+     As of March 8, 1999, the Company had outstanding 42,664,732 shares of
+common stock, $0.625 par value per share ("Common Stock"), each entitled to one
+vote. A majority, or 21,332,367 of such shares, constitutes a quorum for the
+Annual Meeting. There are no outstanding shares of Preferred Stock of the
+Company.
+ 
+                     PERSONS TO BE NOMINATED BY MANAGEMENT
+                           FOR ELECTION AS DIRECTORS
+                                (NOTICE ITEM 1)
+ 
+     Section 50A of Chapter 156B of the Massachusetts General Laws provides for
+a Board of Directors of such number as is fixed by the Directors, divided into
+three classes as nearly equal in number as possible, serving staggered
+three-year terms. The Board of Directors has fixed the number of Directors at
+twenty-four (24). The Board of Directors has the power to fill vacancies and to
+change the size of the Board at any time. The Board of Directors, following the
+recommendation of its Nominating Committee, has recommended the seven (7)
+nominees listed in the chart below (all of whom are currently Directors) to fill
+the seven (7) positions, each of whom, if elected, will hold office for a
+three-year term until the 2002 Annual Meeting of Stockholders and until his or
+her successor is chosen and qualified. In addition, this recommendation
+contemplates that one position on the Board of Directors expiring in 1999 will
+remain vacant and may be filled later by the Board of Directors. Unless
+otherwise specified, Proxies will be voted in favor of the seven (7) nominees'
+election as Directors. Pursuant to the By-Laws of the Company, Directors will be
+elected by a plurality of the votes cast at the Annual Meeting. Thus, shares for
+which authority to vote for one or more nominees is withheld will have no effect
+on the election of those one or more individuals.
+ 
+     On March 17, 1998, the Board of Directors, upon the recommendation of the
+Nominating Committee, established a mandatory retirement age of seventy (70)
+years for members of the Board of Directors. This mandatory retirement age
+policy for the Board of Directors does not affect senior officers of the Company
+or USTrust, its lead banking subsidiary, who serve on the Board of Directors of
+the Company. Each Director who is currently 70 or more years of age will remain
+a Director until his or her term of office expires, at which time he or she will
+not be eligible to be nominated for re-election. Pursuant to the new policy,
+Directors who are currently less than 70 years old and who are re-elected to the
+Board will retire on the date of their 70th birthday if they attain age 70
+during the course of their term. In accordance with the foregoing policy, three
+Directors, Messrs. Jack E. Chappell, Edward J. Sullivan and Gordon M. Weiner are
+retiring from the Board of the Company on May 18, 1999, the date of the Annual
+Meeting and Sydney L. Miller will retire from the Board on the date of his 70th
+birthday, December 8, 1999. Although Mr. Weiner will retire as a Director of the
+Company on May 18, 1999, the Company expects to renominate Mr. Weiner as a
+Director of the Company's subsidiary, United States Trust Company, to serve a
+one year term. Shareholders of the Company are not voting on Mr. Weiner's
+election as a Director of United States Trust Company.
+ 
+                                        2
+<PAGE>   5
+ 
+<TABLE>
+<CAPTION>
+                                         DIRECTOR OF THE     POSITIONS (IN ADDITION TO DIRECTOR OF THE
+                                             COMPANY            COMPANY), COMMITTEE MEMBERSHIPS AND
+NAME (AGE)                                    SINCE        OFFICES WITH THE COMPANY AND ITS SUBSIDIARIES
+- ----------                               ---------------   ---------------------------------------------
+<S>                                      <C>               <C>
+Timothy J. Hansberry (55)..............       1998         Vice Chairman and Chief Operating Officer of
+                                                             the Company, and President and Chief
+                                                             Operating Officer of USTrust; Member,
+                                                             Executive and Public Affairs Committees,
+                                                             Director, USTrust
+Brian W. Hotarek (52)..................       1994         Member, Asset Quality and Nominating
+                                                             Committees
+James E. McCobb, Jr. (56)..............       1998         Member, CRA Committee
+Vikki L. Pryor (45)....................       1995         Vice Chairman, Audit Committee; Member, CRA
+                                                             Committee; Director, USTrust
+Gerald M. Ridge (70)...................       1982         Chairman, Public Affairs Committee; Member,
+                                                             Executive, Asset Quality, and Nominating
+                                                             Committees; Vice Chairman and Director,
+                                                             USTrust
+William Schwartz (66)..................       1981         Chairman of the Board of Directors of the
+                                                             Company; Chairman, Executive Committee;
+Michael J. Verrochi, Jr. (59)..........       1974         Chairman, Nominating Committee; Member,
+                                                             Executive Committee
+</TABLE>
+ 
+     Mr. Hansberry has been Vice Chairman and Chief Operating Officer of the
+Company and President and Chief Operating Officer of USTrust since August, 1998.
+From April, 1995 to August, 1998 he served as President and Chief Executive
+Officer of Affiliated Community Bancorp, Inc., which was acquired by the Company
+in 1998. From 1992 to 1995, Mr. Hansberry was President and Chief Executive
+Officer of Lexington Savings Bank, which during 1995 became a subsidiary bank of
+Affiliated Community Bancorp, Inc. Mr. Hotarek has been Executive Vice President
+and Chief Financial Officer of The Stop & Shop Supermarket Company since 1997.
+Prior to 1997, he served as Senior Vice President, Real Estate and Development
+for The Stop & Shop Supermarket Company. Mr. McCobb is an independent investment
+advisor. Prior to August, 1998, Mr. McCobb served as President and Chief
+Executive Officer of The Federal Savings Bank and as a Director of that bank's
+holding company, Affiliated Community Bancorp, Inc. Ms. Pryor has, since
+January, 1999, served as President and Chief Executive Officer of New York
+State's Savings Bank Life Insurance Fund. She served as a Senior Vice President
+of Oxford Health Plans during 1998. Prior to that time, she served as Senior
+Vice President, Customer Operations and Service for Blue Cross/Blue Shield of
+Massachusetts in Boston, Massachusetts. Mr. Ridge is a Vice Chairman of USTrust
+and President of Blue Hill Cemetery and G. M. Ridge Corporation (athletic club).
+Mr. Schwartz is Chairman of the Board of Directors of the Company. Mr. Schwartz
+serves as Counsel to the New York, New York law firm of Cadwalader, Wickersham &
+Taft. Mr. Schwartz is also a Director of Viacom, Inc. and Viacom International,
+Inc., (diversified media, publishing and entertainment holding companies) and
+serves as a Member of the Advisory Council of W.C.I. Steel, Inc. (steel
+manufacturer). From 1993 to mid-1998, Mr. Schwartz served as Vice President of
+Academic Affairs of Yeshiva University, New York, New York. Mr. Verrochi serves
+as Executive Vice President of Browning-Ferris Industries, Inc. (waste
+management); Director of American Ref-Fuel, Inc. (refuse to energy); President
+and Director of Monadnock Mountain Spring Water Inc., Abita Water Co. and EVC
+Corp. (producers of bottled water); Director, Vice President and Treasurer of
+VRT Corp. (real estate development and construction); Director of Marshfield
+Insurance Co., Inc.; Director of Universal Construction Inc.; and as a trustee
+of several real estate trusts.
+ 
+                                        3
+<PAGE>   6
+ 
+     The following table sets forth certain information about those Directors of
+the Company whose terms of office do not expire at the Annual Meeting and who
+consequently are not nominees for re-election at the Annual Meeting.
+ 
+<TABLE>
+<CAPTION>
+                                    DIRECTOR OF THE   POSITIONS (IN ADDITION TO DIRECTOR OF THE COMPANY),    TERM OF
+                                        COMPANY           COMMITTEE MEMBERSHIPS AND OFFICES WITH THE         OFFICE
+NAME (AGE)                               SINCE                   COMPANY AND ITS SUBSIDIARIES              WILL EXPIRE
+- ----------                          ---------------   ---------------------------------------------------  -----------
+<S>                                 <C>               <C>                                                  <C>
+Chester G. Atkins (51)............       1997         Member, Audit Committee; Director, United States        2001
+                                                      Trust Company
+David E. Bradbury (52)............       1997         Member, Executive and Asset Quality Committees          2000
+Kendrick G. Bushnell (69).........       1998         Member, Audit Committee                                 2001
+Robert M. Coard (72)..............       1995         Member, CRA Committee and Public Affairs Committee      2000
+Robert L. Culver (50).............       1993         Chairman, Audit Committee and Member, Executive and     2001
+                                                      Compensation Committees
+Alan K. DerKazarian (65)..........       1995         Member, Nominating and Public Affairs Committees        2000
+Donald C. Dolben (62).............       1995         Chairman, Compensation Committee; Member, Asset         2000
+                                                      Quality and Executive Committees; Director, USTrust
+James F. Drew (59)................       1998         Member, Nominating Committee                            2001
+Neal F. Finnegan (61).............       1993         President and Chief Executive Officer of the            2001
+                                                      Company and Chairman and Chief Executive Officer of
+                                                      USTrust; Chairman of the Executive Committee of
+                                                      United States Trust Company; Member, Executive and
+                                                      Nominating Committees; Director, USTrust and United
+                                                      States Trust Company
+Edward S. Heald (52)..............       1998         Member, Nominating Committee                            2000
+Francis X. Messina (73)...........       1988         Member, Compensation and CRA Committees; Director,      2000
+                                                      USTrust
+Sydney L. Miller (69).............       1995         Chairman, CRA Committee; Member, Executive and       December 8,
+                                                      Audit Committees                                        1999
+Barbara C. Sidell (65)............       1995         Member, Asset Quality Committee; Director, United       2001
+                                                      States Trust Company
+James V. Sidell (68)..............       1967         Member, Public Affairs Committee                        2000
+Paul D. Slater (64)...............       1980         Chairman, Asset Quality Committee; Vice Chairman,       2001
+                                                      Compensation Committee; Member, Executive
+                                                      Committee; Director, USTrust
+G. Robert Tod (59)................       1997         Member, Nominating Committee                            2000
+</TABLE>
+ 
+     Mr. Atkins is a Partner of ADS Ventures, Inc. of Concord, Massachusetts
+(strategic marketing and related advisory services). Mr. Atkins is also a former
+United States Congressman from the 5th Congressional District of Massachusetts.
+Mr. Bradbury is the President of Walden Partners, Inc. (a private investment
+company). Mr. Bradbury was formerly the Chairman of the Board, President, and
+Chief Executive Officer of Walden Bancorp, Inc. which was acquired by the
+Company in 1997. Mr. Bushnell is a management consultant who served as a
+Director of Affiliated Community Bancorp, Inc. until it was acquired by the
+Company in 1998 and as Chairman of the Board of Lexington Savings Bank, a
+subsidiary bank of Affiliated Community Bancorp, Inc. Mr. Coard is President and
+Chief Executive Officer of Action for Boston Community Development, Inc. Mr.
+Culver has served as Executive Vice President and Chief Financial Officer of
+Cabot Corporation (manufacturer of carbon black and other chemical products)
+since March, 1997. Prior to that
+ 
+                                        4
+<PAGE>   7
+ 
+time, Mr. Culver served as Senior Vice President and Treasurer of Northeastern
+University in Boston, Massachusetts. Dr. DerKazarian is a practicing
+periodontist. Dr. DerKazarian also serves as Vice President of Dental Management
+Systems Inc. and Dental Services P.C. of Cambridge, Massachusetts. Mr. Dolben is
+a Realtor and serves as Chairman of The Dolben Company, Inc., and President of
+William H. Dolben & Sons, Inc. Mr. Drew is President of Drew Management Company
+and a consultant with the Massachusetts-based accounting firm of O'Connor &
+Drew, P.C. Mr. Finnegan is President and Chief Executive Officer of UST Corp.
+Mr. Finnegan is also Chairman and Chief Executive Officer of USTrust and
+Chairman of the Executive Committee of United States Trust Company. Prior to
+joining the Company, Mr. Finnegan served as Executive Vice President in charge
+of Private Banking at Bankers Trust Company, New York, New York. Mr. Finnegan
+also serves as Chairman of the Board of Trustees of Northeastern University. Mr.
+Heald is Corporate Vice President and Branch Manager of the Newton,
+Massachusetts office of A.G. Edwards & Company (securities brokerage). Mr.
+Messina serves as President of Wildwood Estates of Braintree, Inc. (real estate
+development, management and leasing) and as President of F.X. Messina
+Construction Corp. (general contracting and construction). Mr. Miller is
+President of Harry Miller Co., Inc. and W.E. Palmer Company (manufacturers of
+industrial canvas products) and serves as trustee for two real estate trusts.
+Ms. Sidell is an attorney who has served as a Director of various subsidiaries
+of the Company since 1969. Mr. Sidell is a private investor. From 1967 to April,
+1993, Mr. Sidell served as President and Chief Executive Officer of the Company.
+Mr. Slater is a private investor who previously served as the Chairman and Chief
+Executive Officer of The Slater Company, a real estate and finance firm based in
+Boston, Massachusetts. Mr. Slater now serves as President of Naples Downtown
+Corp. in Naples, Florida. Mr. Tod is a private investor who serves as a Director
+of SCI Systems, Inc. of Huntsville, Alabama (electronic equipment manufacturer),
+and EG&G, Inc. of Wellesley, Massachusetts (scientific instruments
+manufacturer). Prior to June, 1998 Mr. Tod served as President and Chief
+Operating Officer of the CML Group, Inc. (a retailer of specialty items,
+including Nordic Track products) located in Acton, Massachusetts. CML Group,
+Inc. filed a voluntary petition for relief under Chapter 11 of the Federal
+Bankruptcy Code in December, 1998.
+ 
+     Except as indicated above, each Director has been employed during the past
+five years in his or her respective positions.
+ 
+     In case any person or persons named herein for election as a Director is or
+are not available for election at the Annual Meeting, Proxies in the
+accompanying form may be voted for a substitute nominee or nominees, as well as
+(in the absence of contrary instructions) for the balance of those named herein.
+Other than as noted in the following sentence, the Board of Directors has no
+reason to believe that any of the nominees for election as Directors will be
+unavailable. Pursuant to the retirement policy, Directors who are currently less
+than 70 years old and who are re-elected to the Board will retire on the date of
+their 70th birthday when they attain age 70 during the course of their term.
+Accordingly, Mr. Sydney L. Miller who will attain age 70 during the course of
+the term to which he was elected at the 1998 Annual Meeting of Stockholders,
+will retire on the date of his 70th birthday, December 8, 1999.
+ 
+              OTHER INFORMATION ABOUT THE BOARD AND ITS COMMITTEES
+ 
+     The Company's Board of Directors has an Executive Committee, Audit
+Committee, Compensation Committee, Nominating Committee, Community Reinvestment
+Committee, Asset Quality Committee and Public Affairs Committee. Members of each
+committee consist of Directors of the Company, Directors of USTrust and
+Directors of United States Trust Company.
+ 
+     The Executive Committee is authorized to act on behalf of the Board and to
+exercise all of the powers of the full Board of Directors when the Board is not
+in session, except as limited by Massachusetts law. The Committee met once in
+1998. The current members of the Executive Committee are Mr. Schwartz
+(Chairman), Mr. Bradbury, Mr. Culver, Mr. Dolben, Mr. Finnegan, Mr. Hansberry,
+Mr. Miller, Mr. Ridge, Mr. Slater and Mr. Verrochi.
+ 
+     The Audit Committee reviews examinations of the Company and its
+subsidiaries that are conducted by regulatory agencies, reviews the results of
+audits of the Company and its subsidiaries by internal audit staff and
+independent auditors, and monitors implementation of recommendations with
+respect to internal controls and
+                                        5
+<PAGE>   8
+ 
+compliance that may be made from time to time. It also reviews risks related to
+litigation against the Company and the activities and reports of the internal
+Loan Review Department of the Company and its subsidiaries. There were eleven
+meetings of the Audit Committee during 1998. Mr. Culver serves as Chairman and
+Ms. Pryor serves as Vice Chairman of the Committee. Mr. Atkins, Mr. Bushnell and
+Mr. Miller also currently serve on the Audit Committee. During 1998, former
+Directors of the Company Jack E. Chappell and Gordon M. Weiner, who are retiring
+from the Board of the Company at this Annual Meeting, also served on the Audit
+Committee.
+ 
+     The Compensation Committee has four members. Mr. Dolben serves as Chairman
+and Mr. Slater serves as Vice Chairman of the Committee. Mr. Culver and Mr.
+Messina also currently serve on the Committee. During 1998 former Director of
+the Company Mr. Weiner, who is retiring from the Board of the Company at this
+Annual Meeting, also served on the Compensation Committee. The Committee
+considers and, when appropriate, makes determinations or recommendations to the
+Board regarding employee and Director compensation (including employee and
+Director stock compensation) matters. The Committee met five times in 1998.
+ 
+     The Nominating Committee recommends candidates to fill vacancies on the
+Boards of Directors of the Company and its subsidiaries, as well as a slate of
+Directors of the Company for election by stockholders at the Annual Meeting. Its
+activities also include evaluation of the size and composition of the Boards of
+Directors of the Company and its subsidiaries. There was one meeting of the
+Nominating Committee during 1998. Mr. Verrochi (Chairman), Dr. DerKazarian, Mr.
+Drew, Mr. Finnegan, Mr. Heald, Mr. Hotarek, Mr. Ridge and Mr. Tod currently
+serve on the Nominating Committee.
+ 
+     The Nominating Committee considers candidates for Director of the Company
+recommended by Directors, officers and stockholders of the Company. Persons
+desiring to suggest candidates for the 2000 Annual Meeting should advise Eric R.
+Fischer, Executive Vice President, General Counsel and Clerk of the Company in
+writing at 40 Court Street, Boston, MA 02108 on or before November 30, 1999 and
+include sufficient biographical material to permit an appropriate evaluation.
+ 
+     The Company's Community Reinvestment Committee's current members are Mr.
+Miller (Chairman), Mr. Coard, Mr. Domenic Colasacco (Director of United States
+Trust Company), Mr. John C. Doody (Director of USTrust), Mr. McCobb, Mr.
+Messina, Ms. Pryor and Mr. Arthur F.F. Snyder (Director of United States Trust
+Company). The Committee held no meetings in 1998. The Community Reinvestment
+Committee reviews the Company's activities to ascertain whether the Company's
+banking subsidiaries are taking appropriate actions to assess and to help meet
+the credit-related needs of the local communities served by the Company's
+banking subsidiaries.
+ 
+     The Board also has an Asset Quality Committee which oversees management's
+efforts to keep the Company's non-performing assets at a low level. The
+Committee met nine times in 1998. It is chaired by Mr. Slater and its members
+include Mr. Bradbury, Mr. Dolben, Mr. Hotarek, Mr. Ridge, Ms. Sidell and
+Patricia M. Flynn (a Director of USTrust). During 1998, Edward J. Sullivan who
+is retiring from the Board of the Company at this Annual Meeting, served on the
+Asset Quality Committee.
+ 
+     In 1996, the Company organized a Public Affairs Committee which reviews the
+public relations activities of the Company as well as positions, if any, taken
+by the Company with regard to public policy issues. The Committee met once in
+1998. It is chaired by Mr. Ridge and its members include Mr. Coard, Dr.
+DerKazarian, Mr. Hansberry and Mr. Sidell. During 1998 Edward J. Sullivan, who
+is retiring from the Board of the Company at this Meeting, served on the Public
+Affairs Committee.
+ 
+     During 1998, there were twelve meetings of the Board of Directors of the
+Company. No Director attended fewer than 75% of the aggregate number of meetings
+of the Board of Directors and of the committees of the Board of Directors on
+which he or she served.
+ 
+                                        6
+<PAGE>   9
+ 
+DIRECTORS' FEES AND OTHER COMPENSATION
+ 
+     Directors of the Company who are not otherwise full-time Officers or
+employees of the Company or any of its subsidiaries are paid an annual stipend
+which in 1998 was $15,000. Furthermore, a Director receives up to a maximum of
+$6,000 annually in meeting fees. Meeting fees are reduced by the percentage of
+meetings which the Director was eligible to attend, but did not attend. For
+example, should a Director of the Company who is also a USTrust Director and is
+eligible to attend 20 Board meetings (12 plus 8) miss 5 meetings of the 20, the
+Director would receive $4,500 rather than the full $6,000 of meeting fees. On
+the other hand, if the Director were a Director of the Company only, and
+attended 8 of those 8 scheduled meetings the Director would receive a full
+$6,000 in meeting fees. Furthermore, in 1998, Directors (other than full-time
+employees of the Company) received the following additional committee fees:
+ 
+<TABLE>
+<S>   <C>                                         <C>
+i)    Executive Committee.......................  $250 per meeting
+ii)   Nominating Committee......................  $500 per meeting
+iii)  Audit Committee...........................  $250 per meeting (except Chairman who
+                                                  receives $500 per meeting and $500 per
+                                                  diem for work on committee matters when a
+                                                  meeting is not held)
+iv)   Compensation Committee....................  $250 per meeting (except Chairman who
+                                                  receives $500 per meeting and $500 per
+                                                  diem for work on committee matters when a
+                                                  meeting is not held)
+v)    Asset Quality Committee...................  $250 per meeting (except Chairman who
+                                                  receives $500 per meeting)
+vi)   Community Reinvestment Committee..........  $250 per meeting (except Chairman who
+                                                  receives $500 per meeting)
+vii)  Public Affairs Committee..................  $250 per meeting (except Chairman who
+                                                  receives $500 per meeting)
+</TABLE>
+ 
+     Instead of receiving a retainer or meeting fees, Mr. Schwartz received a
+stipend of $60,000 in 1998 for his services as Chairman of the Board of
+Directors. In 1998, Mr. Ridge received a stipend of $55,000 for services
+performed in his capacity as Vice Chairman of USTrust, also in lieu of a
+retainer or meeting fees.
+ 
+     At the Annual Meeting of Stockholders in 1995, the 1995 Directors' Stock
+Option Plan was approved by the Company's stockholders. Pursuant to that Plan,
+outside Directors of the Company and USTrust received options to acquire shares
+at the market price ($12.875) on the date of the meeting, May 16, 1995. Options
+were granted as follows: individuals who were Directors of both the Company and
+USTrust received 7,500 options; individuals who were solely Directors of the
+Company received 5,100 options; individuals who were solely honorary Directors
+of the Company received 4,500 options; and individuals who were solely Directors
+of USTrust received 3,000 options. These options vested during 1997. In addition
+to the foregoing, in May 1996, at the Annual Meeting of Stockholders, the
+Company's stockholders approved the 1996 Directors' Stock Option Plan which
+granted outside Directors of the Company 5,000 immediately exercisable options
+at $13.438, the market price on May 21, 1996, the date of the Annual Meeting of
+Stockholders.
+ 
+     The Company also maintains a deferred compensation program which covers
+Directors of the Company and Directors of any subsidiary of the Company whose
+Board of Directors elects to participate. Under this program, Directors may
+elect to defer all or any portion of their Directors' meeting fees and annual
+stipend. Each participant is treated as a general, unsecured creditor of the
+Company and has the right to receipt of his other deferred compensation upon
+termination of Director status. Payments of the deferred amounts are made in
+shares of Common Stock of the Company.
+ 
+                                        7
+<PAGE>   10
+ 
+                       COMPENSATION OF EXECUTIVE OFFICERS
+ 
+     The tables that appear below, together with the accompanying text and
+footnotes, provide information on compensation and benefits for the named
+Executive Officers, as defined in the rules and regulations of the Securities
+and Exchange Commission (the "Named Executive Officers"). Except for the
+information regarding individual stock option exercises, all the data regarding
+values for stock options and grants of Restricted Common Stock are hypothetical
+in terms of the amounts that an individual may or may not receive because such
+amounts are contingent on continued employment by the individual with the
+Company and are based on the price of the Common Stock as of the particular
+reference date. All 1998 year-end values shown in these tables for outstanding
+Common Stock options and restricted Common Stock ("Restricted Common Stock")
+shares reflect a $23.5625 price, which was the closing price of the Common Stock
+on December 31, 1998, as reported in the Nasdaq section of the Eastern Edition
+of The Wall Street Journal.
+ 
+     The following table displays compensation information for the past three
+fiscal years for each of the Named Executive Officers:
+ 
+                           SUMMARY COMPENSATION TABLE
+ 
+<TABLE>
+<CAPTION>
+                                                              LONG TERM COMPENSATION
+                                                                      AWARDS
+                                        ANNUAL               ------------------------
+                                     COMPENSATION            RESTRICTED    SECURITIES
+                             ----------------------------      STOCK       UNDERLYING    ALL OTHER
+                                      SALARY      BONUS       AWARD(S)      OPTIONS/    COMPENSATION
+                             YEAR       $           $          ($)(A)       SARS(#)        ($)(B)
+                             ----    --------    --------    ----------    ----------   ------------
+<S>                          <C>     <C>         <C>         <C>           <C>          <C>
+Neal F. Finnegan(C)........  1998    $536,431    $520,000     $     --           --       $ 6,400
+President and Chief
+  Executive                  1997    $494,128    $380,000     $219,375       50,000       $11,659
+Officer of the Company       1996    $374,358    $360,000     $     --           --       $ 5,049
+ 
+Timothy J. Hansberry(D)....  1998    $296,531    $120,000     $352,500       30,000       $ 4,000
+Vice Chairman and Chief      1997                             $     --           --
+Operating Officer of the     1996                             $     --           --
+Company
+ 
+James K. Hunt(E)...........  1998    $261,897    $120,000     $287,344       15,000       $ 5,600
+Executive Vice President     1997    $237,302    $ 80,000     $188,906       10,000       $ 6,859
+and Chief Financial          1996    $211,476    $ 80,000     $ 66,300       37,500       $ 2,049
+Officer of the Company
+ 
+Robert T. McAlear(F).......  1998    $241,669    $ 75,000     $ 74,063       10,000       $ 6,400
+Executive Vice President/    1997    $217,071    $ 40,000     $     --       10,000       $11,659
+Consumer Lending and         1996    $214,486    $ 65,000     $     --       32,500       $ 5,049
+Acquisition Integration
+of the Company
+ 
+Kathie S. Stevens(G).......  1998    $210,492    $ 60,000     $ 74,063       10,000       $ 6,400
+Executive Vice President/    1997    $211,162    $ 30,000     $     --       10,000       $11,659
+Commercial Lending           1996    $202,579    $ 50,000     $     --       12,500       $ 5,049
+and Controlled Loans
+of the Company
+</TABLE>
+ 
+                                        8
+<PAGE>   11
+ 
+- ---------------
+(A) As of December 31, 1998, each of the Named Executive Officers held the
+    following number of shares of Restricted Common Stock having the
+    corresponding year-end market value:
+ 
+<TABLE>
+<CAPTION>
+                                                        AS OF DECEMBER 31, 1998
+                                                        -----------------------
+                                                           TOTAL
+                                                          NUMBER        AGGREGATE
+                                                       OF RESTRICTED     MARKET
+NAME                                                    SHARES HELD       VALUE
+- ----                                                   -------------    ---------
+<S>                                                    <C>              <C>
+Neal F. Finnegan.....................................     25,800        $607,913
+Timothy J. Hansberry.................................     15,000        $353,438
+James K. Hunt........................................     13,600        $320,450
+Robert T. McAlear....................................      2,000        $ 47,125
+Kathie S. Stevens....................................      2,000        $ 47,125
+</TABLE>
+ 
+     These shares are forfeitable to the Company and subject to restrictions on
+     transfer. Upon grant the recipient has full voting and dividend rights with
+     respect to all shares granted. The grants to Mr. Finnegan vest over periods
+     which vary from two to five years and are subject to acceleration in the
+     event of a "change of control" of the Company. The grant to Mr. Hansberry
+     vests over a period of two and one half years. The grants to Mr. Hunt vest
+     over periods which vary from two to two and one-half years. The grants to
+     Mr. McAlear and Ms. Stevens vest over a period of two years.
+ 
+(B) The amounts reported for 1998 for each of the Named Executive Officers
+    consist of allocations under the Company's Employee Savings Plan as
+    indicated below:
+ 
+<TABLE>
+<CAPTION>
+                                                                EMPLOYEE
+NAME                                                          SAVINGS PLAN
+- ----                                                          ------------
+<S>                                                           <C>
+Neal F. Finnegan............................................     $6,400
+Timothy J. Hansberry........................................     $4,000
+James K. Hunt...............................................     $5,600
+Robert T. McAlear...........................................     $6,400
+Kathie S. Stevens...........................................     $6,400
+</TABLE>
+ 
+     As of December 31, 1997, the Company's Employee Stock Ownership Plan was
+     merged into the Company's Employee Savings Plan and accordingly, no
+     allocations under the Employee Stock Ownership Plan were made for 1998.
+     Amounts allocated to Mr. Hansberry for 1998 under the Lexington Savings
+     Bank Employee Stock Ownership Plan have not, as of the date hereof, been
+     determined by the Company's actuarial consultants.
+ 
+(C) The Company entered into a restated and amended Employment Agreement with
+    Mr. Finnegan, effective January 1, 1999 and ending December 31, 2001, under
+    which Mr. Finnegan receives a base salary of $600,000, subject to
+    discretionary increases. In addition, on January 4, 1999, Mr. Finnegan was
+    granted a total of 360,000 fully vested stock options, with a per share
+    exercise price of $23.6875, the fair market value on January 4, 1999, and
+    10,000 shares of Restricted Common Stock which vest over a two year period.
+    See "Employment Agreements." Mr. Finnegan's base salary was $520,000 in
+    1998, $480,000 in 1997 and $360,000 in 1996.
+ 
+(D) Mr. Hansberry became Vice Chairman and Chief Operating Officer of the
+    Company and President and Chief Operating Officer of USTrust in August,
+    1998, following the acquisition by the Company of Affiliated Community
+    Bancorp, Inc., the bank holding company for which Mr. Hansberry had served
+    as a Director and President and Chief Executive Officer. Cash compensation
+    paid to Mr. Hansberry for services rendered to Affiliated Community Bancorp,
+    Inc. in 1998 is included in the above table. Of the amounts reported for
+    1998, $204,171 of Mr. Hansberry's salary was paid by Affiliated Community
+    Bancorp, Inc. and the balance of each item was paid by the Company. Mr.
+    Hansberry entered into an Employment Agreement with the Company, effective
+    August 10, 1998 for an initial term ending on January 4, 2000, automatically
+    renewing for a first renewal term expiring on August 9, 2001, and thereafter
+    continuing to run year-to-year unless terminated in writing by either party
+    upon 60-days notice. See "Employment Agreements."
+ 
+                                        9
+<PAGE>   12
+ 
+(E) Mr. Hunt entered into a restated and amended two-year Employment Agreement
+    dated February 1, 1996 and thereafter continuing to run year-to-year unless
+    terminated in writing by either party upon 60-days notice. See "Employment
+    Agreements."
+ 
+(F) Mr. McAlear entered into a two-year Employment Agreement dated February 1,
+    1996 and thereafter continuing to run year-to-year unless terminated in
+    writing by either party upon 60-days notice. See "Employment Agreements."
+ 
+(G) Ms. Stevens entered into a two-year Employment Agreement dated February 1,
+    1996 and thereafter continuing to run year-to-year unless terminated in
+    writing by either party upon 60-days notice. See "Employment Agreements."
+ 
+                            STOCK-BASED COMPENSATION
+ 
+     The Stock Compensation Plan originally adopted in 1992, as amended to date,
+provides for granting of Incentive Stock Options, Nonqualified Stock Options and
+Restricted Common Stock Awards or a combination of the foregoing as a means
+through which the Company seeks to attract and retain highly qualified employees
+and attract and encourage able persons to enter into and remain in the Company's
+and its subsidiaries' employ. The Plan is designed to encourage key employees of
+the Company and its subsidiaries to acquire and maintain stock ownership,
+thereby strengthening their commitment to the welfare of the Company and
+promoting the identity of interests between stockholders and key employees.
+ 
+     The following table provides details regarding stock options granted to the
+Named Executive Officers in 1998 under the Stock Compensation Plan. In addition,
+in accordance with SEC rules, this table shows hypothetical gains on a pre-tax
+basis or "option spreads" that would exist for the respective options granted in
+1998 for the Named Executive Officers. These gains are based on assumed rates of
+annual compound stock price appreciation of 0%, 5% and 10% from the date the
+options were granted over the full option term.
+ 
+                             OPTION GRANTS IN 1998
+ 
+<TABLE>
+<CAPTION>
+                                            INDIVIDUAL GRANTS
+                                          ---------------------
+                             NUMBER OF        %                                             POTENTIAL REALIZABLE VALUE
+                             SECURITIES    OF TOTAL                 MARKET                    AT ASSUMED ANNUAL RATES
+                             UNDERLYING    OPTIONS                 VALUE ON                 OF STOCK PRICE APPRECIATION
+                              OPTIONS     GRANTED TO   EXERCISE     GRANT                       FOR OPTION TERM(C)
+                              GRANTED     EMPLOYEES     PRICE        DATE      EXPIRATION   ---------------------------
+                               (#)(A)      IN 1998     ($/SH.)    ($/SH.)(B)      DATE      0%       5%         10%
+                             ----------   ----------   --------   ----------   ----------   ---   --------   ----------
+<S>                          <C>          <C>          <C>        <C>          <C>          <C>   <C>        <C>
+Neal F. Finnegan...........        --          --            --          --          --     --          --           --
+Timothy J. Hansberry.......    30,000       11.93%     $23.5000    $23.5000     8/10/08     --    $443,371   $1,123,588
+James K. Hunt..............    15,000        5.96%     $24.6875    $24.6875     1/13/08     --    $232,888   $  590,183
+Robert T. McAlear..........    10,000        3.98%     $24.6875    $24.6875     1/13/08     --    $155,258   $  393,455
+Kathie S. Stevens..........    10,000        3.98%     $24.6875    $24.6875     1/13/08     --    $155,258   $  393,455
+</TABLE>
+ 
+- ---------------
+(A) The options set forth above vested immediately as of the date of the grant.
+ 
+(B) Fair market value of Common Stock on the date of the grant.
+ 
+(C) Realizable value represents the difference between the assumed stock price
+    at the expiration date and the exercise price.
+ 
+                                       10
+<PAGE>   13
+ 
+     The following table shows stock option exercises by the Named Executive
+Officers during 1998, including the aggregate value realized upon exercise.
+"Value realized upon exercise" represents the excess of the closing price of the
+Common Stock on the date of exercise over the exercise price. In addition, this
+table includes the number of shares remaining unexercised underlying both
+"exercisable" (i.e. vested) and "unexercisable" (i.e. unvested) stock options as
+of December 31, 1998. Also reported are the values of "in-the-money" options,
+which represent the positive spread between the exercise price of any such
+existing stock options and the year-end price of the Common Stock of $23.5625.
+ 
+                    AGGREGATED OPTION EXERCISES IN 1998 AND
+                          YEAR-END 1998 OPTION VALUES
+ 
+<TABLE>
+<CAPTION>
+                                                           NUMBER OF SECURITIES          VALUE OF UNEXERCISED,
+                                                          UNDERLYING UNEXERCISED         IN-THE-MONEY, OPTIONS
+                               SHARES                   OPTIONS AT FISCAL YEAR END        AT FISCAL YEAR END
+                              ACQUIRED       VALUE      ---------------------------   ---------------------------
+                             ON EXERCISE    REALIZED    EXERCISABLE   UNEXERCISABLE   EXERCISABLE   UNEXERCISABLE
+                             -----------   ----------   -----------   -------------   -----------   -------------
+<S>                          <C>           <C>          <C>           <C>             <C>           <C>
+Neal F. Finnegan...........    80,800      $1,048,396     338,534        16,666       $3,952,861       $54,165
+Timothy J. Hansberry.......        --              --     116,609            --       $1,244,917            --
+James K. Hunt..............        --              --      70,500            --       $  517,148            --
+Robert T. McAlear..........        --              --      71,700            --       $  607,075            --
+Kathie S. Stevens..........    15,000      $  190,625      75,200            --       $  756,981            --
+</TABLE>
+ 
+                              RETIREMENT BENEFITS
+ 
+     The following table presents the years of service to the Company (and, if
+applicable, years of service rendered to a financial institution or other
+business entity acquired by the Company) and the 1998 remuneration covered by
+the Company's Pension Plan and Supplemental Retirement Benefit Plan for the five
+Named Executive Officers with regard to whom information is provided in the
+Executive Compensation Table.
+ 
+<TABLE>
+<CAPTION>
+                                                 CURRENT          COVERED
+                                             YEARS OF SERVICE   REMUNERATION
+                                             ----------------   ------------
+<S>                                          <C>                <C>
+Neal F. Finnegan...........................          6            $520,000
+Timothy J. Hansberry.......................          6            $255,000
+James K. Hunt..............................          5            $250,000
+Robert T. McAlear..........................          8            $230,000
+Kathie S. Stevens..........................         13            $200,000
+</TABLE>
+ 
+                                       11
+<PAGE>   14
+ 
+     The following table reflects annual single life annuity retirement benefits
+payable (before deduction for Social Security benefits) to persons in specified
+"final average" base salary and years of service classifications.
+ 
+<TABLE>
+<CAPTION>
+                                                         YEARS OF SERVICE
+                                                -----------------------------------
+BASE SALARY                                        15          20       25 AND OVER
+- -----------                                     --------    --------    -----------
+<C>           <S>                               <C>         <C>         <C>
+ $100,000     ................................  $ 30,000    $ 40,000     $ 50,000
+  125,000     ................................    37,500      50,000       62,500
+  150,000     ................................    45,000      60,000       75,000
+  175,000     ................................    52,500      70,000       87,500
+  200,000     ................................    60,000      80,000      100,000
+  225,000     ................................    67,500      90,000      112,500
+  250,000     ................................    75,000     100,000      125,000
+  300,000     ................................    90,000     120,000      150,000
+  400,000     ................................   120,000     160,000      200,000
+  500,000     ................................   150,000     200,000      250,000
+  600,000     ................................   180,000     240,000      300,000
+</TABLE>
+ 
+     To the extent that benefits cannot be provided under the Pension Plan or
+certain other retirement plans of the Company because of the limitations imposed
+by Sections 415 and 401(a)(17) of the Internal Revenue Code on the amount of
+such benefits payable, any balance of benefits otherwise payable under such
+plans will be provided by the Company to eligible officers pursuant to a
+Supplemental Retirement Benefit Plan adopted by the Board of Directors. As of
+December 31, 1998, all individuals named in the Summary Compensation Table were
+covered by the Supplemental Retirement Benefit Plan. In addition, all
+individuals named in the Summary Compensation Table were covered by the Senior
+Executive Plan which is a supplemental retirement plan that provides a maximum
+benefit equal to 50% of five year average compensation. For purposes of this
+plan, compensation includes salary, certain cash payments and certain Restricted
+Stock bonus payments.
+ 
+                         COMPENSATION COMMITTEE REPORT
+ 
+COMPENSATION PHILOSOPHY
+ 
+     This Report reflects the Company's compensation philosophy and resulting
+actions taken by the Company for 1998, as shown in the various compensation
+tables above. The Compensation Committee either approves or recommends to the
+Board of Directors salary and bonus amounts and stock award levels for Executive
+Officers of the Company and its affiliates. Directors who were also Executive
+Officers did not participate in votes concerning their own remuneration or plans
+under which they were eligible to receive any benefits.
+ 
+     Compensation of Executive Officers of the Company has been designed
+generally to: (i) compensate Executive Officers based upon corporate, business
+unit and individual performance; (ii) motivate Executive Officers to achieve
+strategic business initiatives and reward them for their achievement; (iii)
+provide salary arrangements which are comparable (and in the aggregate at
+approximately the 60th percentile when compared to those of the Company's peer
+group competitors) as described below under "Salary"; and (iv) align the
+interests of executives with the long-term interests of stockholders through
+award opportunities that can result in the ownership of Common Stock. The
+Committee does not at present, however, have any specific target level of Common
+Stock ownership.
+ 
+     In 1998, executive compensation was composed of base salary, discretionary
+annual incentive awards, long-term incentive opportunities in the form of stock
+options and Restricted Common Stock, and benefits typically offered to
+executives by the Company's peer group competitors. Generally, as an executive's
+level of responsibility increases, a greater portion of potential total
+compensation tends to be based upon performance incentives and less on salary
+and employee benefits, often causing greater variability in the individual's
+absolute compensation level from year to year. Generally, the higher one rises
+in the organization, the greater the mix of compensation shifts to reliance on
+the Common Stock through stock-based awards. Specific
+ 
+                                       12
+<PAGE>   15
+ 
+compensation and award levels are determined by the Compensation Committee,
+using its discretion and considering both objective and subjective criteria.
+ 
+     In 1996, the Compensation Committee adopted a written "UST Corp. Executive
+Compensation Philosophy" (the "Compensation Philosophy"). The Compensation
+Philosophy utilizes comparable peer company data analyses conducted by Executive
+Alliance, the Company's independent employee compensation consultants, and calls
+for procedures under which: (i) base salary shall be set so that the targeted
+positioning is the 60th percentile for each position, based on asset size or
+such other scope criteria; (ii) actual base salary for an individual relative to
+the target pay shall be determined based on the individual's unique background,
+experiences, personal skills and abilities as well as the business challenges
+facing the Company which require the use of such attributes or skills; and (iii)
+annual incentive targets shall be set at levels which approximate the 60th
+percentile of total compensation, so as to drive and reward consistent
+improvement in performance. The same peer company data analyses used to
+establish salary ranges are to be used to calibrate incentive earning potential.
+Performance goals may be set at levels which approximate the 75th percentile of
+total compensation; and the annualized value of long-term incentive targets
+shall be set at levels which approximate the 60th percentile of the competitive
+total compensation, so as to drive and reward consistent improvement in
+performance and shareholder value. Peer company data will be used to calibrate
+long-term incentive earning potential. Performance goals may be set at levels
+which approximate the 75th percentile of competitive total direct compensation
+values.
+ 
+     The Compensation Committee has granted substantial stock compensation to
+Mr. Finnegan and the other Named Executive Officers in order to align more
+closely the economic interests of these officers with those of the Company's
+stockholders.
+ 
+GENERAL BACKGROUND
+ 
+     The Five-Year Stockholder Return comparison, which is found at the end of
+the discussion of Compensation of Executive Officers, reflects the five-year
+performance (including reinvestment of dividends) of the Company's Common Stock
+as compared to the Keefe, Bruyette & Woods ("KBW") New England Bank Index and
+the Standard & Poor's 500 Index.
+ 
+     The following is a discussion of the Compensation Committee's bases for Mr.
+Finnegan's compensation reported for 1998, and its general policies with respect
+to the other Named Executive Officers in the Summary Compensation Table. Mr.
+Finnegan served as Chief Executive Officer throughout 1998.
+ 
+SALARY
+ 
+     The Compensation Committee increased Mr. Finnegan's base salary from
+$480,000 to $520,000 effective January 1, 1998. Based upon comparative analyses
+of approximately 15 similarly-sized regional and national bank holding companies
+provided to the Compensation Committee and advice provided by Executive Alliance
+his base salary was increased to $600,000 effective January 1, 1999 to be
+competitive with the base salaries of Chief Executive Officers of the banks and
+bank holding companies analyzed. The increase is referenced in a restated and
+amended three-year Employment Agreement with the Company effective January 1,
+1999. (See "Employment Agreements".)
+ 
+1998 CASH BONUS AWARDS
+ 
+     Mr. Finnegan received a $520,000 cash bonus in early 1999 to reflect his
+performance during 1998 (which is reflected in the Summary Compensation Table),
+based upon a determination of the Compensation Committee, considering the
+financial performance of the Company as measured according to the Annual
+Incentive Plan adopted by the Company in 1998. Under the matching contribution
+feature of UST Corp.'s Employee Savings Plan, Mr. Finnegan also received an
+aggregate contribution of $6,400 for 1998.
+ 
+                                       13
+<PAGE>   16
+ 
+1998 STOCK AWARDS
+ 
+     The Company's Stock Compensation Plan, approved by stockholders in 1992,
+permits the granting of several different types of stock-based awards. The
+Company's 1989 Restricted Common Stock Bonus Award Program permits the granting
+of awards of Restricted Common Stock. On January 2, 1997 Mr. Finnegan was
+granted a total of 50,000 stock options, priced at $20.3125, the fair market
+value at the close of trading on January 2, 1997. The options vested in 1997. As
+part of an amendment and to reflect a one year extension of his employment
+agreement in 1997, Mr. Finnegan also received a 10,800 share Restricted Common
+Stock bonus in early 1997 which provides him with Restricted Common Stock for
+the additional year of his contract on a basis consistent with the prior years
+of his contract period. No options or Restricted Common Stock were granted to
+Mr. Finnegan in 1998. On January 4, 1999, Mr. Finnegan was granted 360,000 fully
+vested options to acquire the Company's Common Stock at an exercise price of
+$23.6875 per share and 10,000 shares of Restricted Common Stock, which vests
+over a two year period. (See "Employment Agreements".)
+ 
+LIMITATION ON DEDUCTIBILITY OF EXECUTIVE COMPENSATION
+ 
+     The Internal Revenue Code was amended in 1993 to disallow deductions on
+annual compensation in excess of $1,000,000 for certain executives of public
+companies, beginning in 1994. The Compensation Committee accordingly amended the
+Stock Compensation Plan, imposing a per-employee limit on annual grants, which
+was approved by the Company's stockholders at the 1994 Annual Meeting. The
+Compensation Committee has monitored the impact of this law over the past
+several years and has taken into consideration both the benefits of favorable
+tax treatment for the Company and the necessity for the Compensation Committee
+to have the discretion to take appropriate steps to further its executive
+compensation philosophy and honor existing contractual obligations. As a result
+of the foregoing, the Compensation Committee recommended to, and the Board of
+Directors approved the Company's new Annual Incentive Plan which addresses the
+foregoing tax considerations. The stockholders approved the new Annual Incentive
+Plan at the Annual Meeting held on May 19, 1998.
+ 
+     This Report was submitted by the Compensation Committee which is comprised
+of the following Directors, none of whom is a full-time employee of the Company
+or any of its subsidiaries:
+          Donald C. Dolben, Chairman
+        Paul D. Slater, Vice Chairman
+        Robert L. Culver
+        Francis X. Messina
+        Gordon M. Weiner
+ 
+          COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+ 
+     During 1998, the following persons served for a portion or all of the year
+on the Compensation Committee: Robert L. Culver, Donald C. Dolben, Francis X.
+Messina, Paul D. Slater and Gordon M. Weiner.
+ 
+     Officers and Directors of the Company, and their associates, are customers
+of the Company and its subsidiaries and, as such, may have obtained loans and
+loan commitments in excess of $60,000. All such loans and loan commitments
+outstanding since the beginning of the last fiscal year were made in the
+ordinary course of business by the Company's banking subsidiaries and on
+substantially the same terms, including interest rates and collateral, as those
+prevailing at the time for comparable transactions with other persons and did
+not involve more than the normal risk of collectability or present other
+unfavorable terms.
+ 
+     The members of the Compensation Committee, and their respective associates,
+may have had an interest in certain transactions involving the Company or its
+subsidiaries during 1998. In addition to loan transactions and other customer
+transactions, during the past fiscal year the Company and its subsidiaries have
+used products or services of, and have had other transactions with, various
+organizations with which Officers and Directors of the Company are affiliated.
+The amounts involved have in no case been material in relation to the business
+of the Company and its subsidiaries and it is believed that they have not been
+material in relation to the business of such other organizations or to the
+individuals concerned. It is expected that in the future the Company and its
+subsidiaries will continue to have transactions similar to those described in
+this paragraph.
+                                       14
+<PAGE>   17
+ 
+                    FIVE-YEAR STOCKHOLDER RETURN COMPARISON
+ 
+     The following table compares the total return on the Company's Common Stock
+over the last five years to the Keefe, Bruyette & Woods ("KBW") New England Bank
+Index and the Standard & Poor's 500 Index ("S&P 500"). The KBW New England Bank
+Index is comprised of approximately 18 commercial and savings banks located
+within the New England states and ranging in asset size from approximately $520
+million to $10 billion. The Company has decided to include comparisons to this
+index, which only first became available in 1994, because it provides a closer
+comparison to the Company as it is entirely an index of mid-sized New England
+banks and bank holding companies with similar geographical, size and market
+characteristics. Most banks that use the KBW New England Bank Index also compare
+themselves to the S&P 500. Total return values for these indices were calculated
+based on cumulative total return values, assuming reinvestment of dividends.
+ 
+                   COMPARISON OF FIVE-YEAR CUMULATIVE RETURN
+                  AMONG UST CORP., STANDARD & POOR'S 500 INDEX
+                         AND KBW NEW ENGLAND BANK INDEX
+                         FISCAL YEAR ENDING DECEMBER 31
+[COMPARISON GRAPH]
+ 
+<TABLE>
+<CAPTION>
+                                                                             STANDARD AND POOR'S 500      KBW NEW ENGLAND BANK
+                                                        UST CORP.                     INDEX                       INDEX
+                                                        ---------            -----------------------      --------------------
+<S>                                             <C>                         <C>                         <C>
+'1993'                                                   100.00                      100.00                      100.00
+'1994'                                                    96.47                      101.36                      100.67
+'1995'                                                   136.94                      139.31                      157.13
+'1996'                                                   198.16                      171.21                      217.03
+'1997'                                                   271.58                      228.26                      373.11
+'1998'                                                   235.83                      293.36                      344.79
+</TABLE>
+ 
+                                       15
+<PAGE>   18
+ 
+                             EMPLOYMENT AGREEMENTS
+ 
+     Mr. Finnegan, President and Chief Executive Officer of the Company, entered
+into a restated and amended three year Employment Agreement with the Company
+effective January 1, 1999. Under the terms of the Agreement, Mr. Finnegan is
+paid a base salary of $600,000 per annum, subject to discretionary increases, is
+eligible for discretionary bonuses and is entitled to those fringe benefits made
+available to other senior executives of the Company. Under the Agreement, Mr.
+Finnegan received on January 4, 1999 an aggregate of 10,000 shares of Restricted
+Common Stock which vest over a two year period and an aggregate of 360,000 fully
+vested options to acquire the Company's Common Stock at the exercise price of
+$23.6875 per share, the fair market value of the Common Stock on January 4,
+1999. On the first and second anniversaries of the Agreement, Mr. Finnegan will
+be granted 10,000 additional shares of Restricted Common Stock. The restrictions
+on these shares will lapse over a two-year period from the date of the
+respective grant. The Agreement also provides Mr. Finnegan with up to five
+additional years of service under the Company's Senior Executive Plan. Mr.
+Finnegan has agreed to non-competition and non-solicitation provisions in the
+Agreement. In addition, in the event of his termination by the Company other
+than for cause or by Mr. Finnegan for good reason (exclusive of a
+change-in-control) he will receive an amount equal to the sum of: twenty-four
+months base salary, two times his short term incentive compensation for the full
+calendar year immediately preceding his termination; up to twenty-four months
+continuation of healthcare benefits (or cash equivalent); full option
+acceleration; and the lapse of restrictions on all Restricted Common Stock. In
+the event of such termination following a change-in-control, Mr. Finnegan will
+receive: thirty-six months base salary; three times his short term incentive
+compensation for the full calendar year immediately preceding his termination;
+up to thirty-six months continuation of healthcare benefits (or cash
+equivalent); and the vesting of any Restricted Common Stock or stock options
+will be in accordance with the Company's Stock Compensation Plan.
+Notwithstanding the preceding, the total amounts payable to Mr. Finnegan
+resulting from a change-in-control will be limited to the maximum amount that is
+deductible by the Company under Section 280G of the Internal Revenue Code.
+ 
+     Mr. Hansberry, Vice Chairman and Chief Operating Officer of the Company and
+President and Chief Operating Officer of USTrust, entered into an Employment
+Agreement effective August 10, 1998 for an initial term ending on January 4,
+2000, and thereafter automatically renewing for a first renewal term expiring on
+August 9, 2001 (unless the Company at its option elects to extend the first
+renewal term beyond August 9, 2001), and thereafter renewing annually unless
+notice of non-renewal is given by either party at least 60 days prior to the
+expiration of the first renewal term or any subsequent renewal term. Under the
+terms of the Agreement, Mr. Hansberry is paid a base salary of $325,000 per
+annum subject to discretionary increases, is eligible for bonuses under the
+Company's Annual Incentive Plan for Executives, and is entitled to those fringe
+benefits made available to other senior executives of the Company. Under the
+Agreement, Mr. Hansberry has received an aggregate of 15,000 shares of
+Restricted Common Stock which vest over a period ending on January 2, 2001 and
+an aggregate of 30,000 fully vested options to acquire the Company's Common
+Stock at the exercise price of $23.5000 per share, the fair market value of the
+Common Stock on August 10, 1998. On January 8, 1999, Mr. Hansberry was granted
+30,000 stock options at an exercise price of $23.375 per share, the fair market
+value of the Common Stock on that date. Mr. Hansberry has agreed to
+non-competition and non-solicitation provisions in the Agreement. In addition,
+in the event of his termination by the Company other than for cause or by Mr.
+Hansberry for good reason (exclusive of a change-in-control), he will receive
+eighteen months base salary, any bonus awarded, but not yet paid, and up to
+eighteen months continuation of healthcare benefits (or cash equivalent). In the
+event of such termination following a change-in-control, Mr. Hansberry will
+receive 2.99 times his "base amount" as defined in Section 280G(b)(3) of the
+Internal Revenue Code, exclusive of his W-2 earnings resulting from the exercise
+of stock options, any bonus awarded, but not yet paid, up to eighteen months
+continuation of healthcare benefits (or cash equivalent), and the vesting of any
+Restricted Common Stock or stock options will be in accordance with the
+Company's Stock Compensation Plan. Notwithstanding the preceding, the total
+amounts payable to Mr. Hansberry resulting from a change-in-control will be
+limited to the maximum amount that is deductible by the Company under Section
+280G of the Internal Revenue Code.
+ 
+                                       16
+<PAGE>   19
+ 
+     Mr. Hunt, Executive Vice President, Treasurer and Chief Financial Officer
+of the Company, entered into a restated and amended two-year Employment
+Agreement with the Company, dated February 1, 1996, which thereafter continues
+to run year-to-year unless terminated in writing by either party upon 60-days
+notice. Under the terms of the Employment Agreement, Mr. Hunt is paid a base
+salary of $250,000 per annum, is eligible for discretionary bonuses and is
+entitled to fringe benefits made available to senior executives. Through
+December 31, 1998, Mr. Hunt has also received an aggregate of 38,100 shares of
+Restricted Common Stock and aggregate options to purchase 87,500 shares of the
+Company's Common Stock at an average purchase price of $15.34 per share. On
+January 8, 1999, Mr. Hunt was granted 30,000 stock options, priced at $23.375,
+the fair market value of the Common Stock on that date. Under the terms of the
+Employment Agreement, Mr. Hunt has also agreed to certain non-solicitation and
+confidentiality provisions. In addition, under the Employment Agreement, as
+amended on December 17, 1996, in the event there is a change-in-control of the
+Company (as defined in the Employment Agreement) and Mr. Hunt is not offered
+continued employment in a similar position with the successor entity, Mr. Hunt
+will be entitled to a severance payment equal to two times the sum of (i) his
+then current annual base salary for the then most recent year plus (ii) the
+bonus which Mr. Hunt earned for performance during the previous calendar year.
+In addition, in the event of his termination by the Company other than for cause
+(exclusive of a change-of-control), or by Mr. Hunt for good reason, he will
+receive twelve months base salary, an amount equal to the bonus which Mr. Hunt
+earned for performance during the calendar year immediately preceding his date
+of termination, and up to twelve months continuation of healthcare benefits (or
+cash equivalent). In the event of such termination following a change-
+in-control, Mr. Hunt will receive twenty-four months base salary, an amount
+equal to the bonus which Mr. Hunt earned for performance during the prior
+calendar year, and up to twenty-four months continuation of healthcare benefits
+(or cash equivalent) and any then unvested Restricted Common Stock or stock
+options will vest in accordance with the Company's Stock Compensation Plan.
+ 
+     Mr. McAlear, Executive Vice President/Consumer Lending and Acquisition
+Integration of the Company and Vice Chairman of USTrust, entered into a two-year
+Employment Agreement with the Company, dated February 1, 1996, which thereafter
+continues year-to-year unless terminated in writing by either party upon 60-days
+notice. Under the terms of the Employment Agreement, Mr. McAlear is paid a base
+salary of $230,000 per annum subject to discretionary increases, is eligible for
+discretionary bonuses and is entitled to fringe benefits made available to
+senior executives. Through December 31, 1998, Mr. McAlear has also received an
+aggregate of 12,000 shares of Restricted Common Stock and aggregate options to
+purchase 98,550 shares of the Company's Common Stock at an average purchase
+price of $13.17 per share. On January 8, 1999, Mr. McAlear was granted 10,500
+stock options, priced at $23.375, the fair market value of the Common Stock on
+that date. Under the terms of the Employment Agreement, Mr. McAlear has also
+agreed to certain non-solicitation and confidentiality provisions. In addition,
+under the Employment Agreement, as amended on December 17, 1996, in the event
+there is a change-in-control of the Company (as defined in the Employment
+Agreement) and Mr. McAlear is not offered continued employment in a similar
+position with the successor entity, Mr. McAlear will be entitled to a severance
+payment equal to two times the sum of (i) his then current annual base salary
+for the then most recent year plus (ii) an amount equal to the bonus which Mr.
+McAlear earned for performance during the previous calendar year. In addition,
+in the event of his termination by the Company other than for cause (exclusive
+of a change-of-control), or by Mr. McAlear for good reason, he will receive
+twelve months base salary, an amount equal to the bonus which Mr. McAlear earned
+for performance during the calendar year immediately preceding his date of
+termination, and up to twelve months continuation of healthcare benefits (or
+cash equivalent). In the event of such termination following a
+change-in-control, Mr. McAlear will receive twenty-four months base salary, an
+amount equal to the bonus which Mr. McAlear earned for performance during the
+prior calendar year, and up to twenty-four months continuation of healthcare
+benefits (or cash equivalent) and any then unvested Restricted Common Stock or
+stock options will vest in accordance with the Company's Stock Compensation
+Plan.
+ 
+     Ms. Stevens, Executive Vice President/Commercial Lending and Controlled
+Loans of the Company and Vice Chairman of USTrust, entered into a two-year
+Employment Agreement with the Company, dated February 1, 1996, which thereafter
+continues year-to-year unless terminated in writing by either party upon 60-days
+notice. Under the terms of the Employment Agreement, Ms. Stevens is paid a base
+salary of $200,000 per annum subject to discretionary increases, is eligible for
+discretionary bonuses and is entitled to fringe
+ 
+                                       17
+<PAGE>   20
+ 
+benefits made available to senior executives. Through December 31, 1998, Ms.
+Stevens has also received an aggregate of 15,000 shares of Restricted Common
+Stock and aggregate options to purchase 117,050 shares of the Company's Common
+Stock at an average purchase price of $11.97 per share. On January 8, 1999, Ms.
+Stevens was granted 10,500 stock options, priced at $23.375, the fair market
+value of the Common Stock on that date. Under the terms of the Employment
+Agreement, Ms. Stevens has also agreed to certain non-solicitation and
+confidentiality provisions. In addition, under the Employment Agreement, as
+amended on December 17, 1996, in the event there is a change-in-control of the
+Company (as defined in the Employment Agreement) and Ms. Stevens is not offered
+continued employment in a similar position with the successor entity, Ms.
+Stevens will be entitled to a severance payment equal to two times the sum of
+(i) her then current annual base salary for the then most recent year plus (ii)
+an amount equal to the bonus which Ms. Stevens earned for performance during the
+previous calendar year. In addition, in the event of her termination by the
+Company other than for cause (exclusive of a change-of-control), or by Ms.
+Stevens for good reason, she will receive twelve months base salary, an amount
+equal to the bonus which Ms. Stevens earned for performance during the calendar
+year immediately preceding her date of termination, and up to twelve months
+continuation of healthcare benefits (or cash equivalent). In the event of such
+termination following a change-in-control, Ms. Stevens will receive twenty-four
+months base salary, an amount equal to the bonus which Ms. Stevens earned for
+performance during the prior calendar year, and up to twenty-four months
+continuation of healthcare benefits (or cash equivalent) and any then unvested
+Restricted Common Stock or stock options will vest in accordance with the
+Company's Stock Compensation Plan.
+ 
+                     CERTAIN TRANSACTIONS AND INDEBTEDNESS
+ 
+     As described above under "Compensation Committee Interlocks and Insider
+Participation," the Company and its subsidiaries had certain lending and other
+transactions and relationships with Directors, Officers and 5% stockholders of
+the Company, and their associates, during 1998.
+ 
+                RELATIONSHIP WITH INDEPENDENT PUBLIC ACCOUNTANTS
+ 
+     The Board of Directors, upon the recommendation of the Audit Committee, has
+selected the firm of Arthur Andersen LLP, independent public accountants, as
+auditors of the Company for 1999. The Company has been advised by such firm that
+neither it nor any member or associate of such firm has any relationship with
+the Company or with any of its affiliates other than as independent accountants
+and auditors. Arthur Andersen LLP has served as the Company's independent
+auditors since the Company's organization in 1967.
+ 
+     Representatives of Arthur Andersen LLP will be present at the Annual
+Meeting, will have an opportunity to make any statement they may desire to make,
+and will be available to answer appropriate questions from stockholders.
+ 
+               TO APPROVE, UPON THE RECOMMENDATION OF THE BOARD,
+                     AN AMENDMENT TO THE COMPANY'S BY-LAWS
+                                (NOTICE ITEM 2)
+ 
+     In January, 1999 the Board of Directors of the Company voted unanimously to
+recommend to the Company's stockholders that Article I, Section 1 of the
+Company's By-Laws be amended to change the date of the Company's Annual Meeting
+of Stockholders from the third Tuesday in May to the third Tuesday in April;
+commencing in the Year 2000. Should this Proposal be approved at this Meeting,
+the Annual Meeting of the Company's stockholders in the Year 2000 would be held
+on April 18, 2000.
+ 
+     Although the Board of Directors characterizes the proposed Amendment to the
+By-laws as a procedural matter, the Board considers the Amendment to the
+Company's By-Laws as necessary and desirable for the following reasons:
+ 
+          (i) The Board believes that the earlier Annual Meeting date will
+     improve the efficiency and effectiveness of the Board in addressing
+     customary and other year-end Company business, such as the election of
+     officers and addressing matters involving the Company's subsidiaries, by
+     closely coordinating the timing of the Annual Meeting of Stockholders with
+     the Annual Meeting of the Board of Directors. Based on the current meeting
+     schedule, the Board now holds eight rather than twelve regular meetings
+                                       18
+<PAGE>   21
+ 
+     during each year and is not scheduled to meet during the month of May.
+     Therefore, (if the Company continued to hold the Annual Meeting of
+     Stockholders in May) the Annual Meeting of the Board of Directors (always
+     held after the Annual Meeting of Stockholders) would not be held until
+     June, a full month after the Annual Meeting of Stockholders. By adopting
+     the new date, however, Annual Meetings of the Stockholders and Directors
+     may in fact be held on the same day.
+ 
+          (ii) The change in the Annual Meeting would also better coordinate the
+     Company's presentation to its stockholders with the completion and
+     publication of the Company's year-end financial statements and Securities
+     and Exchange Commission filings.
+ 
+     Should the Proposal be adopted by the Company's Stockholders, Article I,
+Section I of the By-Laws of the Company would be amended to read in its entirety
+as follows:
+ 
+          "1. ANNUAL MEETING.  The annual meeting of stockholders shall be
+     held on the third Tuesday in April in each year (or if that be a legal
+     holiday in the place where the meeting is to be held, on the next
+     succeeding full business day) at 11:00 o'clock A.M. unless a different
+     hour is fixed by the Directors or the President and stated in the
+     notice of the meeting. The purposes for which the annual meeting is to
+     be held, in addition to those prescribed by law, by the Articles of
+     Organization or by these By-Laws, may be specified by the Directors or
+     the President. If no annual meeting is held in accordance with the
+     foregoing provisions, a special meeting may be held in lieu thereof,
+     and any action taken at such meeting shall have the same effect as if
+     taken at the annual meeting."
+ 
+RECOMMENDATION OF YOUR BOARD OF DIRECTORS TO VOTE "FOR" THIS PROPOSAL
+ 
+     The Board of Directors believes that the adoption of the proposed Amendment
+to the Company's By-Laws will promote the interests of the Company and its
+stockholders. Proxies solicited by the Board of Directors will be voted in favor
+of the Proposal unless stockholders specify otherwise.
+ 
+     To approve the Amendment to change the date of the Annual Meeting from the
+third Tuesday in May to the third Tuesday in April, the vote of the holders of a
+majority of the shares present or represented and entitled to vote on the
+Proposal at the Annual Meeting is required. An abstention will have the effect
+of a vote against the Proposal, while a broker non-vote (i.e., shares held by
+brokers or nominees as to which (i) instructions have not been received from the
+beneficial owners and (ii) the broker or nominee does not have the discretionary
+authority to vote on a particular matter) will have no effect on the outcome.
+ 
+                      ACTION TO BE TAKEN -- OTHER BUSINESS
+                                (NOTICE ITEM 3)
+ 
+     As of the date of this Proxy Statement, the Board of Directors does not
+intend to present at the Annual Meeting any business other than the two specific
+items listed in the notice, and it has not been informed of any business
+intended to be presented by others. Should any other matters, however, properly
+come before the meeting, the persons named in the enclosed Proxy will take
+action, and vote Proxies, in accordance with their judgment on such matters.
+ 
+     Action may be taken on the business to be transacted at the meeting on the
+date specified in the Notice of Annual Meeting or on any date or dates to which
+such meeting may be adjourned.
+ 
+                                       19
+<PAGE>   22
+ 
+                        SECURITY OWNERSHIP OF MANAGEMENT
+ 
+     Other than Franklin Mutual Advisers, Inc., which reported beneficial
+ownership as of December 31, 1998 of 6.1% of the Company's Common Stock, as of
+March 1, 1999, the Company was unaware of any stockholder or related group of
+stockholders which beneficially owned more than five percent of the Company's
+Common Stock.
+ 
+     The following table shows the number of shares and percentage of the
+Company's Common Stock beneficially owned or owned through the Company's
+Deferred Compensation Plan by each Director and nominee for Director, each Named
+Executive Officer in the Summary Compensation Table above and by all Directors
+and Officers of the Company as a group, as of March 1, 1999. Units in the
+Deferred Compensation Plan have no voting rights and the underlying shares of
+the Company's Common Stock associated with such units may not be sold until the
+individual holder retires from the Company or dies.
+ 
+<TABLE>
+<CAPTION>
+                                     AMOUNT AND
+                                     NATURE OF
+                                     BENEFICIAL         DEFERRED                  PERCENT OF
+NAME                                OWNERSHIP(1)        PLAN(2)       TOTAL         CLASS
+- ----                                ------------        --------      -----       ----------
+<S>                                 <C>                 <C>         <C>           <C>
+Chester G. Atkins.................       13,911(3)                      13,911           *
+David E. Bradbury.................      319,525(4)                     319,525           *
+Kendrick G. Bushnell..............       15,598(5)                      15,598           *
+Jack E. Chappell..................       44,062(6)                      44,062           *
+Robert M. Coard...................        8,263(7)        2,039         10,302           *
+Robert L. Culver..................       12,665(8)                      12,665           *
+Alan K. DerKazarian...............       21,982(9)        2,310         24,292           *
+Donald C. Dolben..................        9,050(10)                      9,050           *
+James F. Drew.....................      188,422(11)                    188,422           *
+Neal F. Finnegan..................      909,328(12)                    909,328      2.1313%
+Timothy J. Hansberry..............      173,416(13)                    173,416           *
+Edward S. Heald...................        9,693(14)                      9,693           *
+Brian W. Hotarek..................       11,800(15)       4,732         16,532           *
+James K. Hunt.....................      142,801(16)                    142,801           *
+Robert T. McAlear.................      115,576(17)                    115,576           *
+James E. McCobb...................       28,576(18)                     28,576           *
+Francis X. Messina................      421,973(19)      25,400        447,373      1.0486%
+Sydney L. Miller..................      123,831(20)       5,352        129,183           *
+Vikki L. Pryor....................        5,097(21)                      5,097           *
+Gerald M. Ridge...................       37,839(22)                     37,839           *
+William Schwartz..................       16,925(23)      41,146         58,071           *
+Barbara C. Sidell.................      511,029(24)                    511,029      1.1978%
+James V. Sidell...................      325,566(25)                    325,566           *
+Paul D. Slater....................      132,877(26)      16,798        149,675           *
+Kathie S. Stevens.................      107,370(27)                    107,370           *
+Edward J. Sullivan................       19,450(28)                     19,450           *
+G. Robert Tod.....................        7,475(29)                      7,475           *
+Michael J. Verrochi...............      195,054(30)       1,358        196,412           *
+Gordon M. Weiner..................        5,119(31)                      5,119           *
+ALL DIRECTORS AND OFFICERS AS A
+  GROUP (31 persons)..............    4,410,858(32)      99,135      4,509,993     10.5708%
+</TABLE>
+ 
+                                       20
+<PAGE>   23
+ 
+- ---------------
+   * Less than 1%.
+ 
+ (1) Information as to the interests of the respective Executive Officers,
+     Directors and nominees has been furnished in part by them. As of March 1,
+     1999, all such shares are held of record unless otherwise indicated. The
+     inclusion of information concerning shares held by or for their spouses,
+     children or by trusts or corporations in which they have an interest does
+     not constitute an admission by such persons of beneficial ownership
+     thereof. Unless otherwise indicated, all persons have sole voting and
+     dispositive power as to all shares they are shown as owning.
+ 
+ (2) Denotes units representing share equivalents held in deferred compensation
+     accounts as of December 31, 1998. Units in the Deferred Compensation Plan
+     have no voting rights and the underlying shares of the Company's Common
+     Stock associated with such units may not be sold until the individual
+     holder retires from the Company or dies.
+ 
+ (3) Includes options to acquire 8,800 shares which are fully vested, but not
+     yet exercised.
+ 
+ (4) Includes options to acquire 46,188 shares which are fully vested, but not
+     yet exercised.
+ 
+ (5) Includes options to acquire 14,978 shares which are fully vested, but not
+     yet exercised.
+ 
+ (6) Includes options to acquire 14,099 shares which are fully vested, but not
+     yet exercised.
+ 
+ (7) Includes options to acquire 8,000 shares which are fully vested, but not
+     yet exercised.
+ 
+ (8) Includes options to acquire 12,500 shares which are fully vested, but not
+     yet exercised.
+ 
+ (9) Includes options to acquire 8,000 shares which are fully vested, but not
+     yet exercised.
+ 
+(10) Mr. Dolben's wife beneficially owns an additional 1,604 shares as to which
+     Mr. Dolben disclaims any beneficial interest. Includes options to acquire
+     5,000 shares which are fully vested, but not yet exercised.
+ 
+(11) Includes options to acquire 1,900 shares which are fully vested, but not
+     yet exercised.
+ 
+(12) Includes 6,667 shares of Common Stock which remain subject to forfeiture as
+     Restricted Common Stock pursuant to the Company's Stock Compensation Plan
+     and options to acquire an aggregate of 545,200 shares which are fully
+     vested, but not yet exercised. Also includes 797 shares held for Mr.
+     Finnegan's benefit under the Company's Employee Savings Plan.
+ 
+(13) Includes options to acquire 10,000 shares of Common Stock which remain
+     subject to forfeiture as Restricted Common Stock pursuant to the Company's
+     Stock Compensation Plan and options to acquire an aggregate of 126,609
+     shares which are fully vested, but not yet exercised. Also includes an
+     aggregate of 882 shares held for Mr. Hansberry under the Employee Stock
+     Ownership Plan of Lexington Savings Bank, a subsidiary of Affiliated
+     Community Bancorp, Inc. which was acquired by the Company in August, 1998.
+ 
+(14) Includes options to acquire 8,811 shares which are fully vested, but not
+     yet exercised.
+ 
+(15) Includes options to acquire 11,500 shares which are fully vested, but not
+     yet exercised.
+ 
+(16) Includes options to acquire 80,500 shares which are fully vested, but not
+     yet exercised, and 6,500 shares which remain subject to forfeiture as
+     Restricted Common Stock pursuant to the Company's Stock Compensation Plan.
+     Also includes 801 shares held by Mr. Hunt under the Company's Employee
+     Savings Plan.
+ 
+(17) Includes options to acquire an aggregate of 75,200 shares which are fully
+     vested, but not yet exercised, and 1,321 shares held for Mr. McAlear's
+     benefit under the Company's Employee Savings Plan.
+ 
+(18) Includes no options to acquire shares.
+ 
+(19) Includes options to acquire 12,500 shares which are fully vested, but not
+     yet exercised.
+ 
+(20) Includes 14,853 shares beneficially owned by Mr. Sydney L. Miller's wife
+     and 1,023 shares owned by each of his three children in trust. Does not
+     include an aggregate of 148,033 shares held by Mr. Sydney L. Miller's adult
+     children, sister and sister-in-law as to which Mr. Sydney L. Miller
+     disclaims beneficial ownership. Includes options to acquire 12,500 shares
+     which are fully vested, but not yet exercised.
+ 
+(21) Includes options to acquire 5,000 shares which are fully vested, but not
+     yet exercised.
+ 
+                                       21
+<PAGE>   24
+ 
+(22) Includes 25,339 shares owned by Gerald M. Ridge Family Trust, Gerald M.
+     Ridge, Trustee G. M. Ridge Corp. of which Mr. Ridge is President. Includes
+     options to acquire 12,500 shares which are fully vested, but not yet
+     exercised.
+ 
+(23) All 6,825 shares are held jointly with Mr. Schwartz's wife. Includes
+     options to acquire 10,100 shares which are fully vested, but not yet
+     exercised.
+ 
+(24) Includes options to acquire 12,500 shares which are fully vested, but not
+     yet exercised. Does not include any shares of Common Stock beneficially
+     owned by Ms. Sidell's former spouse, James V. Sidell, as to which Ms.
+     Sidell disclaims any beneficial ownership. Also does not include 34,814
+     shares owned by the daughters and grandchildren of Barbara C. Sidell and
+     James V. Sidell, as to which shares Ms. Sidell disclaims any beneficial
+     ownership.
+ 
+(25) Includes 313,066 shares held directly. Does not include any shares of
+     Common Stock beneficially owned by Mr. Sidell's former spouse, Barbara C.
+     Sidell, as to which Mr. Sidell disclaims any beneficial ownership. Also
+     does not include 34,814 shares owned by the daughters and grandchildren of
+     James V. Sidell and Barbara C. Sidell, as to which shares Mr. Sidell
+     disclaims any beneficial ownership. Furthermore, does not include an
+     aggregate of 5,963 shares of Common Stock held by Mr. Sidell's wife Louisa
+     Kasdon-Sidell and Mr. Sidell's stepchildren, one of whom is a minor, as to
+     all of which Mr. Sidell disclaims any beneficial ownership. Includes
+     options to acquire 12,500 shares which are fully vested, but not yet
+     exercised.
+ 
+(26) Does not include 74,369 shares owned by Mr. Slater's sister as to which
+     shares Mr. Slater disclaims beneficial ownership. The number of shares
+     reported are held by Mr. Slater and his wife as tenants by the entirety.
+     Includes options to acquire 12,500 shares which are fully vested, but not
+     yet exercised.
+ 
+(27) Includes options to acquire an aggregate of 78,700 shares which are fully
+     vested, but not yet exercised and 2,033 shares held for Ms. Stevens'
+     benefit under the Company's Employee Savings Plan.
+ 
+(28) Includes 9,521 shares held jointly with Mr. Sullivan's spouse and 506
+     shares held in Mr. Sullivan's spouse's IRA. Includes options to acquire
+     8,000 shares which are fully vested, but not yet exercised.
+ 
+(29) Includes options to acquire 5,000 shares which are fully vested, but not
+     yet exercised.
+ 
+(30) Includes an aggregate of 164,074 shares held by Mr. Verrochi indirectly
+     through an affiliated realty trust and a corporation of which he is
+     President. Includes options to acquire 12,500 shares which are fully
+     vested, but not yet exercised.
+ 
+(31) Does not include 1,050 shares owned by Mr. Weiner's wife of which he
+     disclaims beneficial ownership. Includes options to acquire 5,000 shares
+     which are fully vested, but not yet exercised
+ 
+(32) The amount includes 1,166,585 shares of Common Stock subject to exercisable
+     outstanding stock options and also includes 8,138 shares held by the
+     Company's subsidiary, United States Trust Company, as trustee under the
+     Company's Employee Savings Plan and (with respect to Mr. Hansberry and John
+     G. Fallon, Executive Vice President of the Company, under the Lexington
+     Savings Bank Employee Stock Ownership Plan) and allocated to such Directors
+     and Officers. The total number of shares held in the Company's Employee
+     Savings Plan and allocated to all employees with United States Trust
+     Company as record owner is 305,327.
+ 
+            SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+ 
+     Section 16(a) of the Securities Exchange Act of 1934 (the "Exchange Act")
+requires the Company's Executive Officers and Directors to file reports of
+ownership and changes in ownership with the Securities and Exchange Commission.
+Executive Officers and Directors are required by SEC regulations to furnish the
+Company with copies of all Section 16(a) forms they file. Based solely upon its
+review of the copies of such forms and certain certifications received from the
+Directors and Executive Officers, the Company believes that, during 1998, all
+such filing requirements applicable to its Executive Officers and Directors were
+complied with by such individuals.
+ 
+                                       22
+<PAGE>   25
+ 
+                             STOCKHOLDER PROPOSALS
+ 
+     Any stockholder of the Company may present a proposal for consideration at
+future meetings of the stockholders of the Company. Assuming that Notice Item 2
+above is approved by the Company's stockholders at the Annual Meeting and the
+new Annual Meeting date in April is adopted, any proposal for consideration at
+next year's meeting of stockholders must be received by the Company at its
+principal executive offices, 40 Court Street, Boston, Massachusetts 02108,
+Attention: Eric R. Fischer, Executive Vice President, General Counsel and Clerk,
+no later than December 16, 1999, except that if the next year's annual meeting
+date is changed by more than 30 calendar days from the date, April 18, 2000, on
+which the Company proposes to hold next year's Annual Meeting of Stockholders,
+the Company must receive such a proposal within a reasonable time before the
+Board of Directors makes its proxy solicitation.
+ 
+                        ADDITIONAL FINANCIAL INFORMATION
+                                 ANNUAL REPORT
+ 
+     A copy of the Company's Annual Report to Stockholders for the year ended
+December 31, 1998, which includes financial statements, has been previously
+mailed or mailed simultaneously herewith to all stockholders. The Annual Report
+is not to be regarded as proxy soliciting material.
+ 
+                                  10-K REPORT
+ 
+     A copy of the Company's Annual Report to the SEC on Form 10-K for the year
+ended December 31, 1998 has been previously mailed or mailed simultaneously
+herewith to all stockholders as part of the Company's Annual Report to
+Stockholders.
+ 
+                                            By Order of the Board of Directors
+                                            [Eric R. Fischer's Signature]
+                                            Eric R. Fischer
+                                            Clerk
+ 
+Dated: April 14, 1999
+Boston, Massachusetts
+ 
+                                       23
+<PAGE>   26
+ 
+                                [UST Corp. Logo]
+<PAGE>   27
+
+<TABLE>
+<S>                                                          <C>
+[X] PLEASE MARK VOTES
+    AS IN THIS EXAMPLE
+
+- -----------------------------------------------------------
+                         UST CORP.
+- -----------------------------------------------------------
+                                                             1. Election of Directors.                      FOR ALL   WITH-  FOR ALL
+                                                                                                            NOMINEES  HELD   EXCEPT
+Mark box at right if an address change or comment has   [ ]     Timothy J. Hansberry  Gerald M. Ridge
+been noted on the reverse side of this card.                    Brian W. Hotarek      William Schwartz         [ ]     [ ]     [ ]
+                                                                James E. McCobb, Jr.  Michael J. Verrochi, Jr.
+                                                                Vikki L. Pryor
+
+                                                                ONE POSITION ON THE BOARD OF DIRECTORS EXPIRING IN 1999 WILL REMAIN
+                                                                VACANT AND MAY BE FILLED LATER BY THE BOARD OF DIRECTORS.
+CONTROL NUMBER:
+RECORD DATE SHARE:                                              NOTE: If you do not wish your shares voted "For" a particular
+                                                                nominees, mark the "For All Except" box and strike a line through
+                                                                the name(s) of the nominees(s). Your shares will be voted for the 
+                                                                remaining nominee(s).
+
+
+                                                                                                               FOR   AGAINST ABSTAIN
+                                                             2. Approval of Amendment to the Company's 
+                                                                By-Laws to change date of Annual Meeting of    [ ]     [ ]     [ ]
+                                                                Stockholders to third Tuesday in April.
+
+
+                                               ------------
+  Please be sure to sign and date this Proxy.  Date
+- -----------------------------------------------------------     Authorizing the Proxies in their discretion to consider and act
+                                                                upon such other matters as may properly come before the meeting.
+
+
+- --Stockholder sign here -----------------Co-owner sign here
+</TABLE>
+
+DETACH CARD                                                          DETACH CARD
+
+                                   UST CORP.
+
+
+Dear Stockholder,
+
+Please take note of the important information enclosed with this Proxy. There
+are a number of issues related to the management and operation of your Company
+that require your immediate attention and approval. These are discussed in 
+detail in the enclosed proxy materials.
+
+Your vote counts, and you are strongly encouraged to exercise your right to vote
+your shares.
+
+Please mark the boxes on this proxy card to indicate how your shares will be
+voted, then sign the card, detach it and return your proxy vote in the enclosed
+postage paid envelope.
+
+Your vote must be received prior to the Annual Meeting of Stockholders,
+scheduled to be held on May 18, 1999.
+
+Thank you in advance for your prompt consideration of these matters.
+
+Sincerely,
+
+UST Corp.
+
+<PAGE>   28
+
+                                   UST CORP.
+
+         THIS PROXY IS SOLICITED BY THE BOARD OF DIRECTORS OF UST CORP.
+
+The undersigned stockholder of UST Corp., a Massachusetts corporation (the
+"Company"), hereby constitutes and appoints Neal F. Finnegan, Eric R. Fisher and
+James F. Hunt, and each of them, his or her Attorneys and Proxies (with full
+power of substitution in each), and hereby authorizes them to represent the
+undersigned and to vote, as designated on the reverse, all the shares of Common
+Stock of the Company held of record by the undersigned on March 26, 1999 at the
+Annual Meeting of Stockholders of the Company, to be held on Tuesday, May 18,
+1999, and at any adjournments thereof.
+
+THE PROXY WHEN PROPERLY EXECUTED WILL BE VOTED IN THE MANNER DIRECTED HEREIN BY
+THE UNDERSIGNED HOLDER. IF NO DIRECTION IS MADE, THIS PROXY WILL BE VOTED FOR
+ELECTION OF THE SEVEN NOMINEES FOR DIRECTOR POSITIONS LISTED IN PROPOSAL 1 AND
+FOR THE AMENDMENT TO THE COMPANY'S BY-LAWS DESCRIBED IN PROPOSAL 2.
+
+- --------------------------------------------------------------------------------
+     PLEASE VOTE, DATE, AND SIGN ON REVERSE SIDE AND RETURN PROMPTLY IN THE
+                               ENCLOSED ENVELOPE.
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+Please sign this proxy exactly as your name(s) appear(s) on the books of the
+Company. Joint owners should each sign personally. Trustees and other
+fiduciaries should indicate the capacity in which they sign, and where more than
+one name appears, a majority must sign. If a corporation, this signature should
+be that of an authorized officer who should state his or her title.
+- --------------------------------------------------------------------------------
+
+HAS YOUR ADDRESS CHANGED?                 DO YOU HAVE AND COMMENTS?
+
+- --------------------------------------    --------------------------------------
+
+- --------------------------------------    --------------------------------------
+
+- --------------------------------------    --------------------------------------
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
